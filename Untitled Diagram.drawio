@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T08:22:42.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_q6dLUKH3y34fe9l3_50" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T08:41:33.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="pXScZ3X3tn1Zp491payD" version="14.7.3" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -166,6 +166,9 @@
         <mxCell id="d5ac148becb70bc-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.secureConnection;fillColor=#000000;strokeColor=#ffffff;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1538" y="1668" width="56.99999999999999" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="laGPDMc5VnY1hA5UJK2y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="laGPDMc5VnY1hA5UJK2y-1" target="laGPDMc5VnY1hA5UJK2y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="laGPDMc5VnY1hA5UJK2y-1" value="微信交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="67.5" width="122" height="50" as="geometry" />
         </mxCell>
@@ -175,11 +178,26 @@
         <mxCell id="laGPDMc5VnY1hA5UJK2y-2" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="70" width="70" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="laGPDMc5VnY1hA5UJK2y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="laGPDMc5VnY1hA5UJK2y-4" target="laGPDMc5VnY1hA5UJK2y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="laGPDMc5VnY1hA5UJK2y-4" value="微信收发机器人&lt;br&gt;itchat？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="190" width="122" height="50" as="geometry" />
+          <mxGeometry x="1230" y="150" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="laGPDMc5VnY1hA5UJK2y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="laGPDMc5VnY1hA5UJK2y-5" target="laGPDMc5VnY1hA5UJK2y-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="laGPDMc5VnY1hA5UJK2y-5" value="配置过程，电脑&lt;br&gt;脚本？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="300" width="122" height="50" as="geometry" />
+          <mxGeometry x="1230" y="230" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="laGPDMc5VnY1hA5UJK2y-8" value="执行，监控，处理，反馈任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="310" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="laGPDMc5VnY1hA5UJK2y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="laGPDMc5VnY1hA5UJK2y-9" target="laGPDMc5VnY1hA5UJK2y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laGPDMc5VnY1hA5UJK2y-9" value="1. 申请，挂流光&lt;br&gt;2. 申请，挂五行&lt;br&gt;3. 完成日常任务&lt;br&gt;4. 挂口袋，按时领活力&lt;br&gt;5. 监控寄售&lt;br&gt;6. 监控并挂经验本" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="170" width="135" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
