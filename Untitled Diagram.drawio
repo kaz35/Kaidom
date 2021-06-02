@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T07:13:19.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="70th3Wf328H0dV_ivuZJ" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T07:14:00.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="rV8COrxPvTdq8Q3oCcAA" version="14.7.3" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -204,15 +204,6 @@
         </mxCell>
         <mxCell id="laGPDMc5VnY1hA5UJK2y-9" value="1. 申请，挂流光&lt;br&gt;2. 申请，挂五行&lt;br&gt;3. 完成日常任务&lt;br&gt;4. 挂口袋，按时领活力&lt;br&gt;5. 监控寄售&lt;br&gt;6. 监控并挂经验本" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1037.5" y="170" width="135" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="laGPDMc5VnY1hA5UJK2y-18" value="自动寻路&lt;br&gt;自动驾驶" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1572" y="160" width="122" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="laGPDMc5VnY1hA5UJK2y-19" value="任务分解&lt;br&gt;语义识别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1572" y="90" width="122" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="laGPDMc5VnY1hA5UJK2y-20" value="自动选定&lt;br&gt;图像识别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1572" y="230" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hNwL0SDAXqsqyOnKCwYI-1" value="图像识别&lt;br&gt;ImageAI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1417" y="65" width="122" height="50" as="geometry" />
