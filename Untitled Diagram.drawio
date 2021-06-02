@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T07:23:30.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="HhuxfH_hfES_z4CKv5N0" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T07:39:16.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JaPp6-7lLkYToCA-yjIm" version="14.7.3" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="hNwL0SDAXqsqyOnKCwYI-13" value="挂流光：&lt;br&gt;1. 定时任务；&lt;br&gt;2. 点击报名；&lt;br&gt;3. 定时任务；&lt;br&gt;4. 点击传送；&lt;br&gt;5. 定时乱动；&lt;br&gt;6. 随时截图；&lt;br&gt;7. 重复任务；" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1037.5" y="400" width="112.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hNwL0SDAXqsqyOnKCwYI-14" value="挂美食：&lt;br&gt;1. 点击物品；&lt;br&gt;2. 随时截图；" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1175.5" y="400" width="112.5" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
