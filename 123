@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T09:16:40.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Z2k9TL2DDSoMdmK6Holk" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T09:17:03.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5-R24lLgwMznEVnK5onT" version="14.7.8" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="3128" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -24,17 +24,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1a8abee3a6cfdf20-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.internetGateway;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="2302" y="1151" width="116.7" height="102.8" as="geometry" />
-        </mxCell>
         <mxCell id="1a8abee3a6cfdf20-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.redshift;fillColor=#CC0000;strokeColor=#E6E6E6;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1259.21" y="883" width="135.79" height="172" as="geometry" />
         </mxCell>
         <mxCell id="1a8abee3a6cfdf20-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.simpleDb2;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1981" y="1301.2" width="139.1" height="147.6" as="geometry" />
-        </mxCell>
-        <mxCell id="1a8abee3a6cfdf20-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.snapshot;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="2079" y="1000" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1a8abee3a6cfdf20-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1079.1000000000001" y="800.4" width="59.51" height="60" as="geometry" />
@@ -56,12 +50,6 @@
         </mxCell>
         <mxCell id="1a8abee3a6cfdf20-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowSW;fillColor=#000000;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="510" y="790" width="271.37" height="155.17" as="geometry" />
-        </mxCell>
-        <mxCell id="d5ac148becb70bc-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.snapshot;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="2010" y="1055" width="92" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d5ac148becb70bc-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowSW;fillColor=#000000;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="2092" y="1241" width="246" height="140" as="geometry" />
         </mxCell>
         <mxCell id="d5ac148becb70bc-14" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeWidth=5;fontFamily=Verdana;fontSize=12;startArrow=none;" parent="1" edge="1" target="2AVq_-yzWh7HwsJGpJDo-81" source="BkT9Ytt0S03YRR11wSRz-102">
           <mxGeometry width="50" height="100" relative="1" as="geometry">
