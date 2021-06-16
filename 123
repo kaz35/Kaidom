@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T08:36:40.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="EchG8gC2VWq6nppAv_kp" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T08:37:07.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="kPStR6sMoejfjfm-beyU" version="14.7.8" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1564" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -543,6 +543,12 @@
         </mxCell>
         <mxCell id="BkT9Ytt0S03YRR11wSRz-68" value="&lt;h1 style=&quot;font-size: 57px&quot;&gt;&lt;font face=&quot;Tahoma&quot; color=&quot;#3399ff&quot; style=&quot;font-size: 57px&quot;&gt;&lt;font style=&quot;font-size: 57px&quot;&gt;Pipeline&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="500" y="513.6" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BkT9Ytt0S03YRR11wSRz-69" value="&lt;h1 style=&quot;font-size: 57px&quot;&gt;&lt;font face=&quot;Tahoma&quot; color=&quot;#3399ff&quot; style=&quot;font-size: 57px&quot;&gt;&lt;font style=&quot;font-size: 57px&quot;&gt;CI&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="2525" y="1444.5" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BkT9Ytt0S03YRR11wSRz-70" value="&lt;h1 style=&quot;font-size: 57px&quot;&gt;&lt;font face=&quot;Tahoma&quot; color=&quot;#3399ff&quot; style=&quot;font-size: 57px&quot;&gt;&lt;font style=&quot;font-size: 57px&quot;&gt;CD&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="2248" y="1650" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
