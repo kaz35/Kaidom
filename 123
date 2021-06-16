@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T09:42:34.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="o0nm9oZNcD3XlbRqdttT" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T09:46:31.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6UEhPA0IinGmmINnuSmv" version="14.7.8" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1303" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BkT9Ytt0S03YRR11wSRz-122" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNE;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1173.95" width="210" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="BkT9Ytt0S03YRR11wSRz-112" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatDoubleEdge;fillColor=#000000;aspect=fixed;direction=west;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="640" width="590.36" height="336.29" as="geometry" />
         </mxCell>
@@ -15,18 +18,6 @@
         </mxCell>
         <mxCell id="1a8abee3a6cfdf20-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dynamoDb;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1050" y="1220" width="181.5" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="1a8abee3a6cfdf20-5" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=5;fontFamily=Verdana;fontSize=12" parent="1" edge="1" target="BkT9Ytt0S03YRR11wSRz-15">
-          <mxGeometry width="50" height="100" relative="1" as="geometry">
-            <mxPoint x="1020" y="1410" as="sourcePoint" />
-            <mxPoint x="1113.1100000000001" y="1331.4499999999998" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="780" y="1320" />
-              <mxPoint x="590" y="1190" />
-              <mxPoint x="610" y="1200" />
-              <mxPoint x="823.11" y="1321.4499999999998" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="1a8abee3a6cfdf20-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.redshift;fillColor=#CC0000;strokeColor=#E6E6E6;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1460" y="973.06" width="135.79" height="172" as="geometry" />
@@ -227,9 +218,6 @@
         <mxCell id="BkT9Ytt0S03YRR11wSRz-88" value="&lt;h1&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-weight: normal ; font-size: 24px&quot;&gt;可视化生成/监控Pipeline脚本&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="2322" y="1700" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BkT9Ytt0S03YRR11wSRz-93" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;rounded=1;shadow=0;comic=0;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;flipV=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1031.46" y="929.1" width="20" height="11.79" as="geometry" />
-        </mxCell>
         <mxCell id="BkT9Ytt0S03YRR11wSRz-94" value="&lt;h1&gt;&lt;font color=&quot;#3399ff&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 37px&quot;&gt;TB二开服务&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="1231.5" y="1464.5" width="210" height="60" as="geometry" />
         </mxCell>
@@ -248,16 +236,12 @@
         <mxCell id="BkT9Ytt0S03YRR11wSRz-105" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.ami;aspect=fixed;fillColor=#E8CA45;strokeColor=#FFF215;" vertex="1" parent="1">
           <mxGeometry x="1094.75" y="1249.57" width="92" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BkT9Ytt0S03YRR11wSRz-107" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;rounded=1;shadow=0;comic=0;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;flipV=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1008.72" y="1402.59" width="22.74" height="13.41" as="geometry" />
-        </mxCell>
         <mxCell id="BkT9Ytt0S03YRR11wSRz-108" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=5;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="100" relative="1" as="geometry">
             <mxPoint x="1030" y="1430" as="sourcePoint" />
             <mxPoint x="521.46" y="929.1" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="531.46" y="1239.1" />
-              <mxPoint x="313.41999999999996" y="1042.8999999999999" />
+              <mxPoint x="660" y="1250" />
               <mxPoint x="333.41999999999996" y="1052.8999999999999" />
               <mxPoint x="546.53" y="1174.3499999999997" />
             </Array>
@@ -283,6 +267,9 @@
         </mxCell>
         <mxCell id="BkT9Ytt0S03YRR11wSRz-121" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.workflowService;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1253.1100000000001" y="920" width="110.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BkT9Ytt0S03YRR11wSRz-123" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;flipH=1;flipV=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="1285.25" width="23.32" height="13.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
