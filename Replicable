@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T15:31:49.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="WlJailtSWxAXoxz4-icv" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T15:37:10.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="i-KNCJdOoN5yUpqQXW1e" version="14.9.0" type="github">
   <diagram id="to6dPeiD_AWTONu-2fOP" name="Page-1">
-    <mxGraphModel dx="604" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EIu5fQ8YvHUy6NiFZi3n-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="184.5" y="250" width="255.5" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="EIu5fQ8YvHUy6NiFZi3n-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="40" width="265.5" height="180" as="geometry" />
         </mxCell>
@@ -31,8 +34,17 @@
         <mxCell id="EIu5fQ8YvHUy6NiFZi3n-15" value="SOP, FAQ, OKR, KPI, 售前材料, SLA..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="239" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EIu5fQ8YvHUy6NiFZi3n-18" value="&lt;b&gt;基于Thoughts的知识库&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="134.62" y="230" width="239" height="20" as="geometry" />
+        <mxCell id="EIu5fQ8YvHUy6NiFZi3n-18" value="&lt;b&gt;基于Thoughts的知识&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134.62" y="220" width="239" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EIu5fQ8YvHUy6NiFZi3n-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAALUAAABGCAYAAACKVdUeAAAEy0lEQVR4Ae2diW6jMBRF+4PzT/OTXVV1Vfe9TffFoxvJGZIC8XvGz8a5SCgp2Ng+HMzDELrmOJFAZQTWKmsPm0MCjlJTguoIUOrqdikbRKnpQHUEKHV1u5QNotR0oDoClLq6XcoGUWo6UB2BLFJ/f387P4+V6M/Pz6wN+F7y5FnjcxWmLFJvb2+79fV1d3BwMFrG7+/v0zagHZeXl0W34/j4eFrXjY2Nous5VOUotZIkpVaCM8hGqZWQKbUSnEE2Sq2ETKmV4AyyUWolZEqtBGeQjVIrIVNqJTiDbJRaCZlSK8EZZKPUSsiUWgnOIBulVkKm1EpwBtmipP78/HQY0JfOuGHhZ2neUtL7+vvPUurVVg9fR3y2rS912e3treoQiJa6CYzf/x+sZBHPIovUX19fDrdgpTN6Buz0ra0tcV5pWanSHx4ezs42u7u7RbfDP5YA5ql4pNju09OTfU+tKtE55yHz2Q8tQVk+CAeh0ZmswhQVfmgBUWotOV0+Sq3jJspFqUW4ohNrpV7789elnqMb17KBUfXUqQFj+6GTZEgvd70pdehejUin7alzy9FsMqUephdvMh3qO3vqhVNsKFhKTannXGFPPYwQzTPXHOCFPxh+LABJ8SelptT+gEzhF8MPhh+dXnnxUn52Fh6xglJT6gh9ysw6KqlLQii5UMxdb21Mnbve2vIptZIcpVaCM8hGqZWQKbUSnEG2UUmd8oLFbzuUOaUOJWWfjlIbXCja79b5EhlTz/NI8teqjVMngSjYKKUWwNImpdRacrp8lFrHTZSLUotwRSem1NEIl2+AUi9nhBRDvXqXUofxjkpFqcPwXV1dufPzc3d9fe0eHh7cy8uLwy/4pe/DptRhvKNSaaWOKnTgzBZDepD65OTk13x6euqw7v7+3k0mE4e69IlOqQfe+W2bo9RtVH4v65K6S/SLiwuH1wo8Pj6619dXh1/7Y6LUv9kOvoRShyGVSN0mOpadnZ05vMLBv4fk4+Ojt1cPq1nZqUZ18wUo0ftgZ+eeEet6UfCqhxT1gZBdskqW7+zszOqKfAhf8C897u7uZuHLUBelJeg+OqlxoSTZoanS4pS+ubk5nff29oqoU1db0VP7unalwfKu8KUEUSV1oNQtF2J9O37V1uFs4Udfnp+f3RjCF0pNqcVnmWb4gleDvb29DTamLumRu9JSakotlrrrbIXrjJubm9noC0LFHFMWqY+Ojtz+/v70ylza6FJi6q4dy+Xz4+oIX3ARjTF1q/Ali9RSkZvpKfW8NGM8iBC+YDwdYUvfTaPmfpd8p9QMPwYLP9oOMH+hyZ6657BkT11uT40hwZWNqXucXbqKUueXujn6gWdPOPqxVNv+BJTaVmofPuApQasLvX4Dlq9lTM2YehZT847i8gMmSYpSnv1I8azH4jbRS7ZdfMUuQ/iAsvjsRxJFudE+AhAvVuBm+IAfGYzhNncfk5B1ows/QhpVSxqJ1Oh9ffiAW9fN56lr4RHaDkodSipDui6pffgQ+suXDFXPWiSlzoq/v3BI7Z+niPmNYn8p9a2l1AXv05oe3LfETKktabMsEwKU2gQzC7EkQKktabMsEwKU2gQzC7EkQKktabMsEwKU2gQzC7EkQKktabMsEwL/AAszXS1YAeQYAAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="155.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIu5fQ8YvHUy6NiFZi3n-22" value="ITR/L2C Pipeline, IPD, Lean, Scrum, WBS, 基线, 排期, 项目模板..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="350" width="239" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EIu5fQ8YvHUy6NiFZi3n-24" value="&lt;b&gt;基于Teambition的规范&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134.62" y="390" width="239" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
