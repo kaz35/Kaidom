@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T14:59:00.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="VpjMv31PrryWKo35UQWl" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T14:59:43.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="AGXp0uk1L5zEfSh28dly" version="14.9.0" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1726" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MUHV8fJlvLmVVj4NIUZv-2" value="&lt;span style=&quot;font-size: 36px&quot;&gt;收集和生成&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUHV8fJlvLmVVj4NIUZv-2" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#00cccc&quot;&gt;收集和生成&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MUHV8fJlvLmVVj4NIUZv-3" value="&lt;span style=&quot;font-size: 36px&quot;&gt;验证和分发&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUHV8fJlvLmVVj4NIUZv-3" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#00cccc&quot;&gt;验证和分发&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="230" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MUHV8fJlvLmVVj4NIUZv-4" value="&lt;span style=&quot;font-size: 36px&quot;&gt;跟踪和培育&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUHV8fJlvLmVVj4NIUZv-4" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#00cccc&quot;&gt;跟踪和培育&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="230" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUHV8fJlvLmVVj4NIUZv-5" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
