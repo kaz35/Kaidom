@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-09T11:46:35.823Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5IfSU_jHsISMM-n2zAW4" version="15.7.0" type="github">
+<mxfile modified="2021-11-09T11:46:59.431Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="W8aB1s7Olntgb7rwfu5T" version="15.7.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1291" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="69yBj5rmb9P_Mx1xIoR8-719" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="600" width="225" height="320" as="geometry" />
+          <mxGeometry x="192.5" y="600" width="225" height="330" as="geometry" />
         </mxCell>
         <mxCell id="69yBj5rmb9P_Mx1xIoR8-720" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="650" width="150" height="60" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="301.5" y="890" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="69yBj5rmb9P_Mx1xIoR8-732" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
-          <mxGeometry x="470" y="600" width="225" height="320" as="geometry" />
+          <mxGeometry x="470" y="600" width="225" height="330" as="geometry" />
         </mxCell>
         <mxCell id="69yBj5rmb9P_Mx1xIoR8-733" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="650" width="150" height="60" as="geometry" />
@@ -191,6 +191,32 @@
         </mxCell>
         <mxCell id="69yBj5rmb9P_Mx1xIoR8-739" value="&lt;font style=&quot;font-size: 10px&quot;&gt;5. 记录风险来源于描述&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="882" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-740" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
+          <mxGeometry x="750" y="600" width="225" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-741" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="650" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-742" value="风险定性分析" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_run;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="69yBj5rmb9P_Mx1xIoR8-741">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-743" value="&lt;font style=&quot;font-size: 10px&quot;&gt;1. PM收集风险信息并登记&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="730" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-744" value="&lt;font style=&quot;font-size: 10px&quot;&gt;2. PM总监定期Review&amp;amp;升级&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="770" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-745" value="&lt;font style=&quot;font-size: 10px&quot;&gt;3. 已升级风险登记在交付风险册中&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="807" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-746" value="&lt;font style=&quot;font-size: 10px&quot;&gt;4. PM总监周会强化风险识别效果&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="847" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="69yBj5rmb9P_Mx1xIoR8-747" value="&lt;font style=&quot;font-size: 10px&quot;&gt;5. 记录风险来源于描述&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="795" y="882" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
