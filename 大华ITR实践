@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-14T15:15:12.241Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="D6GG35YAGNHzh1J-FtzT" version="15.7.3" type="github">
+<mxfile modified="2021-11-14T15:21:25.324Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="L5QfV9gtDkWxAJ2-CnWh" version="15.7.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1154" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -113,6 +113,9 @@
         <mxCell id="kH9RJOrLalD8DS1-jxGz-734" value="测试&amp;amp;PD认领待办" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="665" y="350" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-760" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#666666;strokeColor=#3399FF;" edge="1" parent="1" source="kH9RJOrLalD8DS1-jxGz-735" target="kH9RJOrLalD8DS1-jxGz-753">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kH9RJOrLalD8DS1-jxGz-735" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Check_check_marks_list_checklist_documents_todo_list-128.png;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="525" y="280" width="60" height="60" as="geometry" />
         </mxCell>
@@ -127,6 +130,21 @@
         </mxCell>
         <mxCell id="kH9RJOrLalD8DS1-jxGz-752" value="Erda缺陷看板洞察质量总体状况并识别改进点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="855" y="455" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-761" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#666666;strokeColor=#3399FF;" edge="1" parent="1" source="kH9RJOrLalD8DS1-jxGz-753" target="kH9RJOrLalD8DS1-jxGz-755">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-753" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/project-management-8/500/officeworker-128.png;fontSize=14;fontColor=#666666;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="676" y="387" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-754" value="专人汇总问题解决情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="470" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-755" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.meeting;" vertex="1" parent="1">
+          <mxGeometry x="520" y="405.5" width="70" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-756" value="专人钉群发出问题解决.xls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="470" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
