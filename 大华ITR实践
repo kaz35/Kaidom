@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-14T14:57:25.747Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lxPaO8kpbDKEGH2eAVv7" version="15.7.3" type="github">
+<mxfile modified="2021-11-14T14:59:03.441Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="pARw4-_tg7jrBhNGICou" version="15.7.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1154" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="14" value="&lt;b&gt;钉钉&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="100" width="350" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="711" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Erda" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
+        <mxCell id="711" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#666666&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Erda&lt;/b&gt;&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
           <mxGeometry x="840" y="100" width="290" height="430" as="geometry" />
         </mxCell>
         <mxCell id="kH9RJOrLalD8DS1-jxGz-729" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;" edge="1" parent="1" source="kH9RJOrLalD8DS1-jxGz-719" target="kH9RJOrLalD8DS1-jxGz-727">
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="kH9RJOrLalD8DS1-jxGz-736" value="与客户在待办内沟通/确认" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="350" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-739" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=crd;align=left;" vertex="1" parent="1">
+          <mxGeometry x="860" y="100" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
