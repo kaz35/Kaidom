@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-14T14:40:48.560Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TWCQhQ3rSAkLpNpGe4pU" version="15.7.3" type="github">
+<mxfile modified="2021-11-14T14:43:09.514Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fs14kBI5tD7cqinaGBgx" version="15.7.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1154" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="450" y="100" width="420" height="430" as="geometry" />
         </mxCell>
         <mxCell id="711" value="Customer Lists Logic" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
-          <mxGeometry x="470" y="220" width="360" height="100" as="geometry" />
+          <mxGeometry x="1020" y="210" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="705" value="客户更新问题列表" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFF8E1;" parent="1" vertex="1">
           <mxGeometry x="249" y="123" width="120" height="100" as="geometry" />
@@ -57,9 +57,6 @@
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="718" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=center;dashed=0;" parent="1" source="701" target="703" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="701" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="350" width="150" height="60" as="geometry" />
         </mxCell>
@@ -81,6 +78,12 @@
         </mxCell>
         <mxCell id="kH9RJOrLalD8DS1-jxGz-720" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/dingding-fill-128.png" vertex="1" parent="1">
           <mxGeometry x="465" y="105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-727" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.meeting;" vertex="1" parent="1">
+          <mxGeometry x="510" y="159" width="59" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9RJOrLalD8DS1-jxGz-728" value="客户钉群内发出&amp;amp;留档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="210" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
