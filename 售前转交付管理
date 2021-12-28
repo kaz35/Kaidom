@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T04:36:03.553Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CN5r8JPdRzRiDyOwm4I3" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T04:38:19.925Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eXyL4xHEHufDItaFpGcY" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1031" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-745" value="准备投标——中标前，PMO在“投标”视图管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="262.25" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-746" value="中标后——合同签约前，PMO在“合同”视图管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="668" y="340" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
