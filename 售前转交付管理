@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T07:59:35.997Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="acJHk1GEwOvopS23hCJx" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T08:01:12.120Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="iYhotZrPmBiNEyRCMuZt" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-792" value="6. 通过组合标签分类，通过合同&amp;amp;启动&amp;amp;立项&amp;amp;当前阶段时间来跟进；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1050" y="852" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-793" value="7. 第一阶段：有人管；第二阶段：管该管的；第三阶段：管的住；第四阶段：管的好；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="900" width="470" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
