@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T05:46:01.369Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RrarP7r9qutO3Ukj9H0g" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T05:51:11.206Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SZ3_82k-hmd_jqhL_kwT" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -216,6 +216,15 @@
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-752" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-communication/18/call-merge-128.png;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1000" y="234.5" width="66.5" height="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-753" value="合并到统一视图中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="978.25" y="310" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-754" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/board-stats-report-presentation-diagram-128.png" vertex="1" parent="1">
+          <mxGeometry x="1140" y="240.25" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-755" value="每周五输出一版&lt;br&gt;钟恺翔留档&lt;br&gt;石凯统一汇报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1117.5" y="295" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
