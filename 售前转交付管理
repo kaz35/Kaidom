@@ -1,11 +1,11 @@
-<mxfile modified="2021-12-28T07:31:01.173Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="svDLtChW7HGz5krRCd1M" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T07:32:47.341Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YTd6IxeYlgPdaqq9kf9Y" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="售前转交付-PMO管理动作" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="40" width="1360" height="40" as="geometry" />
+          <mxGeometry x="190" y="40" width="1420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-722" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/list.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="180" width="35" height="50" as="geometry" />
@@ -150,11 +150,11 @@
         <mxCell id="ayuNikYX1oVsQqGJKHpm-778" value="5. 提前立项/提前执行的项目/CR单独跟进，尽快促成项目转正；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1065" y="805" width="350" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-779" value="管理思路" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="96" width="260" height="44" as="geometry" />
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-779" value="管理范围" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="96" width="320" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-780" value="1. PMO的售前转交付管理，从商机工作量评估-开始，到立项-结束。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="160" width="380" height="20" as="geometry" />
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-780" value="概算——所有BD标识赢单率60%及以上且需要报价的商机；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="160" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-781" value="2. 每周滚动跟进，避免积压、滞后；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1375" y="200" width="210" height="20" as="geometry" />
