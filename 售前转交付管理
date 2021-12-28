@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T07:05:00.566Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="x3QNINU1geLSGfCkOYqA" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T07:06:58.263Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="A3yU1AHpMzVc2Nn8AJv_" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
           <mxGeometry x="1250" y="890" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2" value="售前转交付-PMO管理动作" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="40" width="1090" height="40" as="geometry" />
+          <mxGeometry x="190" y="40" width="1400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="689" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="680" width="60" height="60" as="geometry" />
@@ -269,6 +269,12 @@
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-771" value="售前转交付-PMO管理思路" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-460" width="1090" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-772" value="1. 每周一汇总" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-390" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-773" value="管理思路" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="96" width="300" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
