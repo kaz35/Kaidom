@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T07:57:49.199Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hUnvM-SfR23jwCJbDfGj" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T07:59:35.997Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="acJHk1GEwOvopS23hCJx" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -177,14 +177,17 @@
         <mxCell id="ayuNikYX1oVsQqGJKHpm-788" value="2. 没有提前执行，成本可以拆分的CR，单独立项，可裁剪可行性/概算等流程，直接进入预算&amp;amp;立项环节；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1660" y="147" width="570" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-789" value="投标——赢单率60%及以上&amp;amp;非CR&amp;amp;非持续合作客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1675" y="184.25" width="290" height="20" as="geometry" />
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-789" value="3.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1801" y="186" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-790" value="合同——所有准备发起合同流程的项目" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1675" y="225" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-791" value="预算——所有需要立项的项目或CR/合并项目的CR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1676" y="264" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-792" value="6. 通过组合标签分类，通过合同&amp;amp;启动&amp;amp;立项&amp;amp;当前阶段时间来跟进；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="852" width="380" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
