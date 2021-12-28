@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T07:14:33.680Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="aQEpSinLouKOYBq-ZODU" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T07:17:46.056Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YAZYaU9LHzX9z-9K__JC" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -284,6 +284,9 @@
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-776" value="3. 状态变更后提供知识推送，促进高效合规的价值流动；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1320" y="240.25" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-777" value="4. 管理重点为预算/立项&amp;amp;提前执行；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="281" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
