@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T07:35:21.635Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="R_XzHFbqrwYWSKfJlhwe" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T07:36:10.885Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CwLM5wAMwFA3_2e0K3KC" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -154,10 +154,10 @@
           <mxGeometry x="1290" y="96" width="320" height="44" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-780" value="概算——赢单率60%及以上&amp;amp;非CR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="160" width="200" height="20" as="geometry" />
+          <mxGeometry x="1305" y="160" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-781" value="可行性——" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="200" width="80" height="20" as="geometry" />
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-781" value="可行性——赢单率60%及以上&amp;amp;非CR&amp;amp;非持续合作客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="200" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-782" value="3. 状态变更后提供知识推送，促进高效合规的价值流动；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1320" y="240.25" width="320" height="20" as="geometry" />
