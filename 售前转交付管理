@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T07:48:01.763Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="q7dtSP5SS8pvCzzrplm5" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T07:49:40.913Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="BYnEpcvA-vPqBjIK8zgp" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -159,11 +159,11 @@
         <mxCell id="ayuNikYX1oVsQqGJKHpm-781" value="可行性——赢单率60%及以上&amp;amp;非CR&amp;amp;非持续合作客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1305" y="200" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-782" value="3. 状态变更后提供知识推送，促进高效合规的价值流动；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="240.25" width="320" height="20" as="geometry" />
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-782" value="投标——赢单率60%及以上&amp;amp;非CR&amp;amp;非持续合作客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="240.25" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-783" value="4. 管理重点为预算/立项&amp;amp;提前执行；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="281" width="210" height="20" as="geometry" />
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-783" value="合同——所有准备发起合同流程的项目" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="281" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-784" value="5. 提前立项/提前执行的项目/CR单独跟进，尽快促成项目转正；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1305" y="325" width="350" height="20" as="geometry" />
