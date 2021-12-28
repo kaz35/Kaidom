@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T07:06:58.263Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="A3yU1AHpMzVc2Nn8AJv_" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T07:10:04.074Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="AU8zIOGT7OVrn3ZBSO6z" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
           <mxGeometry x="1250" y="890" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2" value="售前转交付-PMO管理动作" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="40" width="1400" height="40" as="geometry" />
+          <mxGeometry x="190" y="40" width="1470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="689" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="680" width="60" height="60" as="geometry" />
@@ -190,8 +190,8 @@
         <mxCell id="ayuNikYX1oVsQqGJKHpm-739" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/731_business_goal_hit_market_success_Business_Management-128.png" vertex="1" parent="1">
           <mxGeometry x="604" y="87" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-740" value="需工作量评估——可行性评审前，PMO在“概算”视图管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="672" y="111" width="310" height="20" as="geometry" />
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-740" value="工作量评估——可行性评审前，PMO在“概算”视图管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="673" y="111" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-742" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/130_target_success_goal_focus-128.png" vertex="1" parent="1">
           <mxGeometry x="602.5" y="167" width="63" height="63" as="geometry" />
@@ -274,7 +274,10 @@
           <mxGeometry x="205" y="-390" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-773" value="管理思路" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="96" width="300" height="44" as="geometry" />
+          <mxGeometry x="1290" y="96" width="370" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-774" value="1. PMO的售前转交付管理，从商机工作量评估-开始，到立项-结束。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="160" width="380" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
