@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T06:35:49.068Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LPWFvfiXUIoeaarkzz2P" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T06:58:28.466Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4TZfh8wExaWcePj8ppWJ" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1182" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -243,11 +243,17 @@
         <mxCell id="ayuNikYX1oVsQqGJKHpm-759" value="每周统一跟进更新一次" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="675" y="516" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ayuNikYX1oVsQqGJKHpm-761" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-128.png" vertex="1" parent="1">
-          <mxGeometry x="760" y="640" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-762" value="《售前BA标准工作规范》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="722" y="710" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-764" value="《市场BD标准工作规范》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="722" y="810" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-765" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office_Mesa_de_trabajo_1-128.png" vertex="1" parent="1">
+          <mxGeometry x="758" y="640" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-766" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office_Mesa_de_trabajo_1-128.png" vertex="1" parent="1">
+          <mxGeometry x="758" y="738" width="62" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
