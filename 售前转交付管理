@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-28T04:04:09.912Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5KDocBkKlarMit5HpOq8" version="16.1.0" type="github">
+<mxfile modified="2021-12-28T04:09:26.334Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zqQ-7gNunrhx1iLg4oRI" version="16.1.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1031" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -152,7 +152,22 @@
           <mxGeometry x="262.5" y="300" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ayuNikYX1oVsQqGJKHpm-725" value="每周一QuickBI取数跟进&lt;br&gt;钟恺翔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="335" width="140" height="30" as="geometry" />
+          <mxGeometry x="207.5" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-726" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="186" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-727" value="《售前转交付》更新打标&lt;br&gt;钟恺翔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-729" value="" style="shape=mxgraph.arrows.arrow_right;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-730" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/arrow_cycle.png" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ayuNikYX1oVsQqGJKHpm-731" value="汇报石凯本周跟进项&lt;br&gt;钟恺翔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="340" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
