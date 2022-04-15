@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-15T06:25:18.652Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Q83aB7mphqTMtmHsU0P5" version="17.2.2" type="github">
+<mxfile modified="2022-04-15T06:27:05.007Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Uc3cR4mcYGTiG2fMin_l" version="17.2.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2115" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1021" value="&lt;b&gt;应用层&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="670" width="1340" height="260" as="geometry" />
+          <mxGeometry x="330" y="670" width="1340" height="450" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1023" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="450" width="170" height="70" as="geometry" />
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1027" value="&lt;b&gt;算法层&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="980" width="840" height="230" as="geometry" />
+          <mxGeometry x="320" y="1180" width="840" height="230" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1028" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1027">
           <mxGeometry width="23" height="20" relative="1" as="geometry">
@@ -207,6 +207,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="q__DUi-fNcWMA-XT6eUi-1057" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q__DUi-fNcWMA-XT6eUi-1041" target="q__DUi-fNcWMA-XT6eUi-1052">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q__DUi-fNcWMA-XT6eUi-1058" value="发起训练" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q__DUi-fNcWMA-XT6eUi-1057">
+          <mxGeometry x="0.211" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1041" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="700" width="205" height="101.11" as="geometry" />
         </mxCell>
@@ -224,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1052" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="710" width="200" height="100" as="geometry" />
+          <mxGeometry x="540" y="890" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1053" value="&lt;font color=&quot;#000000&quot;&gt;训练与推理服务-容器&lt;/font&gt;&lt;br&gt;基于数据资源进行训练&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;python开发-凯迪&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1052">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
