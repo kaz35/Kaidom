@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-15T06:09:05.684Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ix7ZQ4lsB58wlJeTw8ov" version="17.2.2" type="github">
+<mxfile modified="2022-04-15T06:09:18.549Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="I7Of1SDLlSX5KM2pLI5s" version="17.2.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2115" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -160,6 +160,14 @@
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1029" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q__DUi-fNcWMA-XT6eUi-1033" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q__DUi-fNcWMA-XT6eUi-1012" target="q__DUi-fNcWMA-XT6eUi-1025">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q__DUi-fNcWMA-XT6eUi-1034" value="鉴授权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q__DUi-fNcWMA-XT6eUi-1033">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
