@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-15T06:43:25.742Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MrYpdVwQ4rECo39iqwk6" version="17.2.2" type="github">
+<mxfile modified="2022-04-15T06:43:46.688Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="-Dy1S_NzCllyhk4yaS8w" version="17.2.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2115" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1068" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="920" width="310" height="130" as="geometry" />
+          <mxGeometry x="760" y="920" width="310" height="160" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1069" value="&lt;font color=&quot;#000000&quot;&gt;打包服务&lt;/font&gt;&lt;br&gt;模型参数格式转换，适配NPU&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;算法工程化-算法组&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1068">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
@@ -216,7 +216,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1082" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1068">
-          <mxGeometry x="120.96000000000004" y="60" width="40" height="54" as="geometry" />
+          <mxGeometry x="230" y="54.85" width="40.96" height="50.31" as="geometry" />
+        </mxCell>
+        <mxCell id="q__DUi-fNcWMA-XT6eUi-1083" value="bin文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1068">
+          <mxGeometry x="220.48" y="120" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1071" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.859;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q__DUi-fNcWMA-XT6eUi-1012" target="q__DUi-fNcWMA-XT6eUi-1041">
           <mxGeometry relative="1" as="geometry" />
