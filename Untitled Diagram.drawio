@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-15T06:13:49.236Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="uawciYOVrmRG23LA8dSj" version="17.2.2" type="github">
+<mxfile modified="2022-04-15T06:14:41.376Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1lIwcuGwCeJR3aOnYNbz" version="17.2.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2115" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1021" value="&lt;b&gt;应用层&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="670" width="840" height="180" as="geometry" />
+          <mxGeometry x="330" y="670" width="840" height="260" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1022" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1021">
           <mxGeometry width="23" height="20" relative="1" as="geometry">
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1025" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1021">
-          <mxGeometry x="15" y="55" width="200" height="70" as="geometry" />
+          <mxGeometry x="15" y="30.004444444444445" width="200" height="101.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1026" value="&lt;font color=&quot;#000000&quot;&gt;账号中心-Rokid账号体系&lt;/font&gt;&lt;br&gt;提供账号接入&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;接入-雪峰集成&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1025">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1014" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1021">
-          <mxGeometry x="500" y="55" width="195" height="90" as="geometry" />
+          <mxGeometry x="500" y="40.004444444444445" width="195" height="130" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1015" value="&lt;font color=&quot;#000000&quot;&gt;数据标注端云一体-容器&lt;/font&gt;&lt;br&gt;提供标注能力和数据管理&lt;br&gt;自带账户体系&lt;br&gt;&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;开源-集成维护即可&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1014">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1041" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1021">
-          <mxGeometry x="254.5" y="55" width="200" height="70" as="geometry" />
+          <mxGeometry x="255" y="30.004444444444445" width="200" height="101.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1042" value="&lt;font color=&quot;#000000&quot;&gt;AI平台用户后端调度中心&lt;/font&gt;&lt;br&gt;提供用户资源管理&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;java开发-李明团队&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1041">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
