@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-15T07:01:40.052Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wsgo_li2m6cb-MHZGuHr" version="17.2.2" type="github">
+<mxfile modified="2022-04-15T07:04:21.279Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mcJAkHw_iJsl_I04ctrk" version="17.2.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1018" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1006">
           <mxGeometry x="404.3478260869565" y="60" width="221.73913043478262" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="q__DUi-fNcWMA-XT6eUi-1019" value="&lt;font color=&quot;#000000&quot;&gt;端云一体自带界面&lt;/font&gt;&lt;br&gt;数据标注界面&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;开源-集成维护即可&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1018">
+        <mxCell id="q__DUi-fNcWMA-XT6eUi-1019" value="&lt;font color=&quot;#000000&quot;&gt;端云一体自带界面&lt;/font&gt;&lt;br&gt;数据标注界面&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;开源-前端负责维护&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1018">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
