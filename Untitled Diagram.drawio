@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-15T06:32:28.838Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HF1pLclgS2k2XPAKhT2L" version="17.2.2" type="github">
+<mxfile modified="2022-04-15T06:33:28.656Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="yv3LC6NbWIJGkDXFJpvr" version="17.2.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2115" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -262,9 +262,9 @@
           <mxGeometry x="155" y="110" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q__DUi-fNcWMA-XT6eUi-1068" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="920" width="250" height="130" as="geometry" />
+          <mxGeometry x="760" y="920" width="310" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="q__DUi-fNcWMA-XT6eUi-1069" value="&lt;font color=&quot;#000000&quot;&gt;打包服务&lt;/font&gt;&lt;br&gt;算法工程化&amp;amp;SDK打包&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;接入-雪峰集成&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1068">
+        <mxCell id="q__DUi-fNcWMA-XT6eUi-1069" value="&lt;font color=&quot;#000000&quot;&gt;打包服务&lt;/font&gt;&lt;br&gt;算法工程化&amp;amp;SDK打包&lt;hr&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;算法工程化-凯迪；SDK打包-安卓&amp;amp;web&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="q__DUi-fNcWMA-XT6eUi-1068">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
